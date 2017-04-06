@@ -1,0 +1,22 @@
+{
+	"triggers":
+		{
+			"review":{
+		      "frequency":0,
+		      "startAfter":1,
+		      "period":2
+			   },
+			"level":{
+		      "frequency":0,
+		      "startAfter":0,
+		      "period":2
+			   },
+			"resume":{
+		      "frequency":0,
+		      "startAfter":0,
+		      "period":2
+			   }
+		},
+   "AdMob":1,
+   "AppLovin":2
+}
